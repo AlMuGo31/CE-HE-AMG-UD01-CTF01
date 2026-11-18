@@ -1,3 +1,8 @@
+Integrantes:
+Álvaro Murcia González
+Raúl Jurado Morales
+Alejandro Quiñones
+
 
 ## Ficha 5 · Reto 5: otra huella distinta (SHA-1)
 
